@@ -18,5 +18,6 @@ public class AppTest
         assertTrue( true );
         System.out.println("testing git");
         System.out.println("testing git repo");
+        System.out.println("testing git repo");
     }
 }
