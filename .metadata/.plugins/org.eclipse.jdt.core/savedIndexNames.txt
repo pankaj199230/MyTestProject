@@ -1,0 +1,23 @@
+INDEX VERSION 1.131+C:\Users\kambl\eclipse-workspace\MyTestProject\.metadata\.plugins\org.eclipse.jdt.core
+1327734997.index
+786490089.index
+3729352038.index
+1865797976.index
+2587379155.index
+1796038273.index
+3680663880.index
+2599140967.index
+4200376884.index
+1052072219.index
+728076497.index
+2369745620.index
+1689760857.index
+3008957271.index
+1324347148.index
+4162133738.index
+3451140371.index
+2967270151.index
+3413725848.index
+872411491.index
+3444657672.index
+2990966166.index
